@@ -1,0 +1,20 @@
+INFO:root:Chamando a função add com argumentos (10, 5) e kwargs {}
+INFO:root:A função add retornou: 15
+INFO:root:Chamando a função subtract com argumentos (10, 5) e kwargs {}
+INFO:root:A função subtract retornou: 5
+INFO:root:Chamando a função add com argumentos (10, 5) e kwargs {}
+INFO:root:A função add retornou: 15
+INFO:root:Chamando a função subtract com argumentos (10, 5) e kwargs {}
+INFO:root:A função subtract retornou: 5
+INFO:root:Chamando a função add com argumentos (10, 5) e kwargs {}
+INFO:root:A função add retornou: 15
+INFO:root:Chamando a função subtract com argumentos (10, 5) e kwargs {}
+INFO:root:A função subtract retornou: 5
+INFO:root:Chamando a função add com argumentos (10, 5) e kwargs {}
+INFO:root:A função add retornou: 15
+INFO:root:Chamando a função subtract com argumentos (10, 5) e kwargs {}
+INFO:root:A função subtract retornou: 5
+INFO:root:Calling function add with arguments (10, 5) and kwargs {}
+INFO:root:Function add returned: 15
+INFO:root:Calling function subtract with arguments (10, 5) and kwargs {}
+INFO:root:Function subtract returned: 5
